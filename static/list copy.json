@@ -1,0 +1,56 @@
+[
+    {
+        "id": "孕产保健部",
+        "address": [
+            {
+                "street": "1"
+            },
+            {
+                "suite": "2"
+            },
+            {
+                "city": "3"
+            }
+        ]
+    },
+    {
+        "id": "儿童保健部",
+        "address": [
+            {
+                "street": "1"
+            },
+            {
+                "suite": "2"
+            },
+            {
+                "city": "3"
+            },
+            {
+                "zipcode": "4"
+            },
+            {
+                "PrescriptionNo": "5"
+            },
+            {
+                "DrugName": "6"
+            }
+        ]
+    },
+    {
+        "id": "妇女保健部",
+        "address": [
+            {
+                "street": "1"
+            },
+            {
+                "suite": "2"
+            },
+            {
+                "city": "3"
+            },
+            {
+                "zipcode": "4"
+            }
+        ]
+    }
+]
