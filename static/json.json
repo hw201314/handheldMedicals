@@ -1,0 +1,242 @@
+{
+  "resultCode": 20000,
+  "success": true,
+  "data": [
+    {
+      "ChargeLists": [
+        {
+          "ChargeName": "西药",
+          "Amount": 1171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "1▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "10.7133",
+              "Count": "1240.00",
+              "Amount": "171.19"
+            }
+          ]
+        },
+        {
+          "ChargeName": "中药",
+          "Amount": 1171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "1▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "10.7133",
+              "Count": "1240.00",
+              "Amount": "171.19"
+            }
+          ]
+        }
+      ],
+      "Dept": "内科",
+      "SerialNumber": "1000085704",
+      "DocName": "1胡文勇",
+      "ChargeDate": "2020-05-15T09:44:13.3933504+08:00"
+    },
+    {
+      "ChargeLists": [
+        {
+          "ChargeName": "B超",
+          "Amount": 2171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "2▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "20.7133",
+              "Count": "2240.00",
+              "Amount": "2171.19"
+            }
+          ]
+        },
+        {
+          "ChargeName": "CT",
+          "Amount": 1171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "1▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "10.7133",
+              "Count": "1240.00",
+              "Amount": "171.19"
+            }
+          ]
+        }
+      ],
+      "Dept": "外科",
+      "SerialNumber": "2000085704",
+      "DocName": "2胡文勇",
+      "ChargeDate": "2020-05-12T15:58:13.3933504+08:00"
+    },
+    {
+      "ChargeLists": [
+        {
+          "ChargeName": "检查",
+          "Amount": 3171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "3▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "30.7133",
+              "Count": "3240.00",
+              "Amount": "3171.19"
+            }
+          ]
+        }
+      ],
+      "Dept": "儿童科",
+      "SerialNumber": "000085704",
+      "DocName": "3胡文勇",
+      "ChargeDate": "2020-05-15T11:58:13.3933504+08:00"
+    },
+    {
+      "ChargeLists": [
+        {
+          "ChargeName": "西药",
+          "Amount": 1171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "1▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "10.7133",
+              "Count": "1240.00",
+              "Amount": "171.19"
+            }
+          ]
+        },
+        {
+          "ChargeName": "中药",
+          "Amount": 1171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "1▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "10.7133",
+              "Count": "1240.00",
+              "Amount": "171.19"
+            }
+          ]
+        }
+      ],
+      "Dept": "内科",
+      "SerialNumber": "1000085704",
+      "DocName": "4胡文勇",
+      "ChargeDate": "2020-05-15T09:44:13.3933504+08:00"
+    },
+    {
+      "ChargeLists": [
+        {
+          "ChargeName": "B超",
+          "Amount": 2171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "2▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "20.7133",
+              "Count": "2240.00",
+              "Amount": "2171.19"
+            }
+          ]
+        },
+        {
+          "ChargeName": "CT",
+          "Amount": 1171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "1▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "10.7133",
+              "Count": "1240.00",
+              "Amount": "171.19"
+            }
+          ]
+        }
+      ],
+      "Dept": "外科",
+      "SerialNumber": "2000085704",
+      "DocName": "5胡文勇",
+      "ChargeDate": "2020-05-12T15:58:13.3933504+08:00"
+    },
+    {
+      "ChargeLists": [
+        {
+          "ChargeName": "检查",
+          "Amount": 3171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "3▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "30.7133",
+              "Count": "3240.00",
+              "Amount": "3171.19"
+            }
+          ]
+        }
+      ],
+      "Dept": "儿童科",
+      "SerialNumber": "000085704",
+      "DocName": "6胡文勇",
+      "ChargeDate": "2020-05-15T11:58:13.3933504+08:00"
+    },
+    {
+      "ChargeLists": [
+        {
+          "ChargeName": "检查",
+          "Amount": 3171.19,
+          "PrescriptionNo": "1",
+          "ChargeItems": [
+            {
+              "Id": null,
+              "PrescriptionNo": "1",
+              "DrugName": "3▲盐酸丁螺环酮片",
+              "Specifications": "片",
+              "UnitPrice": "30.7133",
+              "Count": "3240.00",
+              "Amount": "3171.19"
+            }
+          ]
+        }
+      ],
+      "Dept": "儿童科",
+      "SerialNumber": "000085704",
+      "DocName": "7胡文勇",
+      "ChargeDate": "2020-05-15T11:58:13.3933504+08:00"
+    }
+  ],
+  "message": null,
+  "pageInfo": null,
+  "exceptionMsg": null,
+  "logTraceId": null
+}

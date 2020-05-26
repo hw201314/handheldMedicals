@@ -1,0 +1,2 @@
+webpackJsonp([15],{dCGi:function(e,t){},iu1Q:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={name:"Profile",components:{Buttomcss:n("S43g").a}},i={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h2",[this._v("我的")]),this._v(" "),t("buttomcss")],1)},staticRenderFns:[]};var r=n("VU/8")(s,i,!1,function(e){n("dCGi")},"data-v-7be5d846",null);t.default=r.exports}});
+//# sourceMappingURL=15.99bc5fa98847c6c67d19.js.map
